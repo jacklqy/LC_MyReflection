@@ -5,4 +5,21 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ruanmou.DB.Interface\Ruanmou.DB.Interface.csproj" />
+    <ProjectReference Include="..\Ruanmou.DB.MySql\Ruanmou.DB.MySql.csproj" />
+    <ProjectReference Include="..\Ruanmou.DB.SqlServer\Ruanmou.DB.SqlServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsetting.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

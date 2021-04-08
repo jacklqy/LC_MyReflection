@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ruanmou.DB.MySql/1.0.0": {
+        "dependencies": {
+          "Ruanmou.DB.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Ruanmou.DB.MySql.dll": {}
+        }
+      },
+      "Ruanmou.DB.Interface/1.0.0": {
+        "runtime": {
+          "Ruanmou.DB.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ruanmou.DB.MySql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ruanmou.DB.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

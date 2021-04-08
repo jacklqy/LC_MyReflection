@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "hUjc5DNizDww0lFOXXByfnUmTdDtXW1RhDRn9IZFErzVHckUXjb3mVfuGouBVd+KL1ihub+i0AIu6uKdtUEy5w==",
+  "dgSpecHash": "q13b6GNI3jFu3E3qIeNKvHVQP8gTy+LIrCA0lsT2FJcO/WsMfS2FJkabSBHngFNb5PK0/p+lCOVvfUbJh4yV9A==",
   "success": true,
-  "projectFilePath": "G:\\test\\LC_MyReflection\\LC_MyReflection\\LC_MyReflection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\github\\LC_MyReflection\\LC_MyReflection\\LC_MyReflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

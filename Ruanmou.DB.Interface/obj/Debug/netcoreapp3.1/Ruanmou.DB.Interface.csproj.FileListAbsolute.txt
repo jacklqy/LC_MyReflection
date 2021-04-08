@@ -1,0 +1,8 @@
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.deps.json
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.AssemblyInfoInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.AssemblyInfo.cs
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.csproj.CoreCompileInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb

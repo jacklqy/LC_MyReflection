@@ -1,0 +1,12 @@
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\bin\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.deps.json
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\bin\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.dll
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\bin\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.pdb
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.csprojAssemblyReference.cache
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.AssemblyInfoInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.AssemblyInfo.cs
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.csproj.CoreCompileInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.csproj.CopyComplete
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.dll
+G:\github\LC_MyReflection\Ruanmou.DB.Oracle\obj\Debug\netcoreapp3.1\Ruanmou.DB.Oracle.pdb

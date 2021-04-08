@@ -1,0 +1,12 @@
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.deps.json
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.dll
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.pdb
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.csprojAssemblyReference.cache
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.AssemblyInfoInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.AssemblyInfo.cs
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.csproj.CoreCompileInputs.cache
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.csproj.CopyComplete
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.dll
+G:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.pdb

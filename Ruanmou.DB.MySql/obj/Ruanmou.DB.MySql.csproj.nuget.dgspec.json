@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj": {}
+  },
+  "projects": {
+    "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj",
+        "projectName": "Ruanmou.DB.Interface",
+        "projectPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj",
+        "packagesPath": "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\",
+        "outputPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator.CQLZD-2021OAHFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
+        "projectName": "Ruanmou.DB.MySql",
+        "projectPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
+        "packagesPath": "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\",
+        "outputPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator.CQLZD-2021OAHFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj": {
+                "projectPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
