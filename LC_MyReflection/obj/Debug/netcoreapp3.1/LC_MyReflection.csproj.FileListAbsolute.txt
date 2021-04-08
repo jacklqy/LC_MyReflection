@@ -1,0 +1,13 @@
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.exe
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.deps.json
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.runtimeconfig.json
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.runtimeconfig.dev.json
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.dll
+G:\test\LC_MyReflection\LC_MyReflection\bin\Debug\netcoreapp3.1\LC_MyReflection.pdb
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.csprojAssemblyReference.cache
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.AssemblyInfoInputs.cache
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.AssemblyInfo.cs
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.csproj.CoreCompileInputs.cache
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.dll
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.pdb
+G:\test\LC_MyReflection\LC_MyReflection\obj\Debug\netcoreapp3.1\LC_MyReflection.genruntimeconfig.cache
