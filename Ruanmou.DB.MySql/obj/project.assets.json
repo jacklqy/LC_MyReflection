@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\": {}
+    "C:\\Users\\BRH201\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
+      "projectUniqueName": "D:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
       "projectName": "Ruanmou.DB.MySql",
-      "projectPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
-      "packagesPath": "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\",
-      "outputPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\obj\\",
+      "projectPath": "D:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\Ruanmou.DB.MySql.csproj",
+      "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\LC_MyReflection\\Ruanmou.DB.MySql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator.CQLZD-2021OAHFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj": {
-              "projectPath": "G:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj"
+            "D:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj": {
+              "projectPath": "D:\\github\\LC_MyReflection\\Ruanmou.DB.Interface\\Ruanmou.DB.Interface.csproj"
             }
           }
         }
@@ -83,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

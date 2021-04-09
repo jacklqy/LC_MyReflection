@@ -10,3 +10,15 @@ G:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.My
 G:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.csproj.CopyComplete
 G:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.dll
 G:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\bin\Debug\netcoreapp3.1\Ruanmou.DB.MySql.deps.json
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\bin\Debug\netcoreapp3.1\Ruanmou.DB.MySql.dll
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\bin\Debug\netcoreapp3.1\Ruanmou.DB.MySql.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.csprojAssemblyReference.cache
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.AssemblyInfoInputs.cache
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.AssemblyInfo.cs
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.csproj.CoreCompileInputs.cache
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.csproj.CopyComplete
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.dll
+D:\github\LC_MyReflection\Ruanmou.DB.MySql\obj\Debug\netcoreapp3.1\Ruanmou.DB.MySql.pdb

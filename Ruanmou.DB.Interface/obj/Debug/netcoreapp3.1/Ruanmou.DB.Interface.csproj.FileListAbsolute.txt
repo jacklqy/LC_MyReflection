@@ -6,3 +6,12 @@ G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.D
 G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.csproj.CoreCompileInputs.cache
 G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
 G:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.deps.json
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\bin\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.csprojAssemblyReference.cache
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.AssemblyInfoInputs.cache
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.AssemblyInfo.cs
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.csproj.CoreCompileInputs.cache
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.dll
+D:\github\LC_MyReflection\Ruanmou.DB.Interface\obj\Debug\netcoreapp3.1\Ruanmou.DB.Interface.pdb
