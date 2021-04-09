@@ -49,7 +49,7 @@ namespace Ruanmou.DB.SqlServer
         /// <typeparam name="T"></typeparam>
         /// <param name="id"></param>
         /// <returns></returns>
-        public T Find<T>(long id)
+        public T Find<T>(long id) where T : BaseModel
         {
             Type type = typeof(T);
             string sql = $"select {string.Join(",", type.GetProperties().Select(p => $"[{p.Name}]"))} from [{type.Name}] where id={id}";
@@ -74,9 +74,13 @@ namespace Ruanmou.DB.SqlServer
                     //        prop.SetValue(oPeople, "rocs");
                     //    Console.WriteLine($"{type.Name}.{prop.Name}={prop.GetValue(oPeople)}");
                     //}
+                    return (T)oObject;
+                }
+                else
+                {
+                    return null;
                 }
             }
-            return (T)oObject;
         }
 
     }

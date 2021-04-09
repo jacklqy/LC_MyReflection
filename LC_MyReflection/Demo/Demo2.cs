@@ -44,6 +44,7 @@ namespace LC_MyReflection.Demo
                 }
             }
             {
+                //数据库操作
                 SqlServerHelper helper = new SqlServerHelper();
                 helper.Find<tb_log>(1);
                 helper.Find<tb_error>(1);

@@ -5,7 +5,7 @@ using System.IO;
 namespace Ruanmou.Util
 {
     /// <summary>
-    /// 约定：固定读取更目录下面的appsettings.json
+    /// 约定：固定读取更目录下面的appsetting.json
     /// </summary>
     public class ConfigrationManager
     {
