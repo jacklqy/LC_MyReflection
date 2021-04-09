@@ -1,3 +1,4 @@
 {
-  "IDBHelperConfig": "Ruanmou.DB.MySql,Ruanmou.DB.MySql.MySqlHelper"
+  "IDBHelperConfig": "Ruanmou.DB.MySql,Ruanmou.DB.MySql.MySqlHelper",
+  "ConnectionString": "Data Source=.;Database=dyd_bs_MQ_log;User ID=sa;Password=123456;MultipleActiveResultSets=True"
 }

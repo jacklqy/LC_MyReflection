@@ -6,3 +6,12 @@ G:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.As
 G:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.csproj.CoreCompileInputs.cache
 G:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.dll
 G:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.pdb
+D:\github\LC_MyReflection\Ruanmou.Model\bin\Debug\netcoreapp3.1\Ruanmou.Model.deps.json
+D:\github\LC_MyReflection\Ruanmou.Model\bin\Debug\netcoreapp3.1\Ruanmou.Model.dll
+D:\github\LC_MyReflection\Ruanmou.Model\bin\Debug\netcoreapp3.1\Ruanmou.Model.pdb
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.csprojAssemblyReference.cache
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.AssemblyInfoInputs.cache
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.AssemblyInfo.cs
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.csproj.CoreCompileInputs.cache
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.dll
+D:\github\LC_MyReflection\Ruanmou.Model\obj\Debug\netcoreapp3.1\Ruanmou.Model.pdb

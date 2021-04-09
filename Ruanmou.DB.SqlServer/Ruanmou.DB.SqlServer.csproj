@@ -5,7 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Ruanmou.DB.Interface\Ruanmou.DB.Interface.csproj" />
+    <ProjectReference Include="..\Ruanmou.Model\Ruanmou.Model.csproj" />
+    <ProjectReference Include="..\Ruanmou.Util\Ruanmou.Util.csproj" />
   </ItemGroup>
 
 </Project>

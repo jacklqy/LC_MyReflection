@@ -1,0 +1,9 @@
+D:\github\LC_MyReflection\Ruanmou.Util\bin\Debug\netcoreapp3.1\Ruanmou.Util.deps.json
+D:\github\LC_MyReflection\Ruanmou.Util\bin\Debug\netcoreapp3.1\Ruanmou.Util.dll
+D:\github\LC_MyReflection\Ruanmou.Util\bin\Debug\netcoreapp3.1\Ruanmou.Util.pdb
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.csprojAssemblyReference.cache
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.AssemblyInfoInputs.cache
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.AssemblyInfo.cs
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.csproj.CoreCompileInputs.cache
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.dll
+D:\github\LC_MyReflection\Ruanmou.Util\obj\Debug\netcoreapp3.1\Ruanmou.Util.pdb

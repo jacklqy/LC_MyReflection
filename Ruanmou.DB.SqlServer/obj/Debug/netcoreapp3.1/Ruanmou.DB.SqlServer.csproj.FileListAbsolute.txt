@@ -22,3 +22,7 @@ D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.D
 D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.csproj.CopyComplete
 D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.dll
 D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\obj\Debug\netcoreapp3.1\Ruanmou.DB.SqlServer.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.Model.dll
+D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.Util.dll
+D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.Model.pdb
+D:\github\LC_MyReflection\Ruanmou.DB.SqlServer\bin\Debug\netcoreapp3.1\Ruanmou.Util.pdb

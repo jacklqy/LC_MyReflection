@@ -25,7 +25,7 @@ namespace Ruanmou.DB.SqlServer
     {
         public void Show<T, W, X>(T t, W w, X x)
         {
-            Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+            Console.WriteLine("泛型方法：t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
         }
     }
     /// <summary>
@@ -36,7 +36,7 @@ namespace Ruanmou.DB.SqlServer
     {
         public void Show<W, X>(T t, W w, X x)
         {
-            Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+            Console.WriteLine("泛型类和泛型方法：t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
         }
     }
 }
